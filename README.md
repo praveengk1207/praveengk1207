@@ -57,7 +57,58 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 20px;"># Hi 👋, I'm Praveen Gogulakonda
+
+![Profile views](https://komarev.com/ghpvc/?username=praveengk1207&label=Profile%20views&color=0e75b6&style=flat)
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=praveengk1207)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Connect with me:
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/praveengk07)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/praveen.gogulakondaa)
+
+<div style="display: flex; flex-wrap: wrap">
+  <div style="flex: 50%; margin-right: 10px">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=praveengk1207&show_icons=true&locale=en&layout=compact)
+  </div>
+  <div style="flex: 50%; margin-right: 10px">
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveengk1207&show_icons=true&locale=en)
+  </div>
+  <div style="flex: 50%; margin-right: 10px">
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveengk1207&)
+  </div>
+</div>
+
+## Languages and Tools:
+
+### Web Technologies
+
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+![Express.js](https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA)
+
+### Programming Languages
+
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+
+### Databases
+
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+
+### Tools
+
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 20px;">
