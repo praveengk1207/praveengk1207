@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
     <a href="https://github.com/praveengk1207" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F17281&psig=AOvVaw1G3fE_t0NNFNIf3CFdGkQj&ust=1709098247091000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDFoqTlyoQDFQAAAAAdAAAAABAY" target="_blank">
   </a>
 
 </div>
