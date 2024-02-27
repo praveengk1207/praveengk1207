@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
     <a href="https://medium.com/@praveengk93" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0d%2FMedium_%2528website%2529_logo.svg%2F2560px-Medium_%2528website%2529_logo.svg.png&tbnid=M2CMB1N2AW_sfM&vet=12ahUKEwjzn5um4sqEAxXXfWwGHaKhBaQQMygBegQIARBp..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMedium_(website)_logo.svg&docid=fCAtWPbh0F12xM&w=2560&h=392&q=medium%20logo&client=firefox-b-d&ved=2ahUKEwjzn5um4sqEAxXXfWwGHaKhBaQQMygBegQIARBp" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" target="_blank">
   </a>
 </div>
 
