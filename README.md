@@ -22,11 +22,9 @@
   <a href="https://instagram.com/praveen.gogulakondaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-
-<p align="left">
-<a href="https://medium.com/@praveengk93" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@praveengk93" height="30" width="40" /></a></p>
-
-
+  <a href="https://medium.com/@praveengk93" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@praveengk93" height="30" width="40" />
+  </a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
