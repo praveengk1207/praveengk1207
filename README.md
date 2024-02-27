@@ -22,9 +22,10 @@
   <a href="https://instagram.com/praveen.gogulakondaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://medium.com/@praveengk93" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" height="50" width="50" target="_blank">
+    <a href="https://github.com/praveengk1207" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
+
 </div>
 
 <h3 align="left">Connect with me:</h3>
