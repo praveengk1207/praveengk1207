@@ -22,9 +22,10 @@
   <a href="https://instagram.com/praveen.gogulakondaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-    <a href="https://github.com/praveengk1207" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F17281&psig=AOvVaw1G3fE_t0NNFNIf3CFdGkQj&ust=1709098247091000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDFoqTlyoQDFQAAAAAdAAAAABAY" target="_blank">
-  </a>
+
+<p align="left">
+<a href="https://medium.com/@praveengk93" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@praveengk93" height="30" width="40" /></a></p>
+
 
 </div>
 
